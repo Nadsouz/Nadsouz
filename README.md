@@ -25,7 +25,7 @@ Atuação na produção de mapas temáticos, plantas técnicas, ortofotos, Model
 - Estou aprendendo sobre licenciamento ambiental.
 - Me aprofundando na criação de mapas a partir de imagens de drone. 
 
-## 🛠️ Technical Skillset
+## 🛠️ Habilidades técnicas
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
