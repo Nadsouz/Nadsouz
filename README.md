@@ -12,7 +12,7 @@
   <a href="mailto:nads12on@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## 🚀 Sobre mim 
 Profissional de Geoprocessamento, com experiência em análise espacial, cartografia, sensoriamento remoto e processamento de imagens de drones.
 
 Atuação na produção de mapas temáticos, plantas técnicas, ortofotos, Modelos Digitais de Terreno (MDT) e curvas de nível, utilizando ferramentas de geotecnologias para análise, tratamento e representação de dados geográficos.
@@ -20,7 +20,7 @@ Atuação na produção de mapas temáticos, plantas técnicas, ortofotos, Model
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
 
-## 🌱 Currently Learning 
+## 🌱 Estudos recentes
 
 - Estou aprendendo sobre licenciamento ambiental.
 - Me aprofundando na criação de mapas a partir de imagens de drone. 
