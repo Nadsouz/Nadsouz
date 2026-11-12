@@ -18,7 +18,7 @@ Profissional de Geoprocessamento, com experiência em análise espacial, cartogr
 Atuação na produção de mapas temáticos, plantas técnicas, ortofotos, Modelos Digitais de Terreno (MDT) e curvas de nível, utilizando ferramentas de geotecnologias para análise, tratamento e representação de dados geográficos.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Portfólio](https:[//your-username.github.io/](https://nadson-map-stories.lovable.app/))
+### [🏆 Portfólio](https://nadson-map-stories.lovable.app)
 
 ## 🌱 Estudos recentes
 
